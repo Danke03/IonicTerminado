@@ -1,0 +1,8 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "counter",
+	"webDir": "www",
+	"server": {
+		"androidScheme": "https"
+	}
+}
